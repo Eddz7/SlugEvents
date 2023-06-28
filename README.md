@@ -2,7 +2,7 @@
 
 ## Installation/Usage Instructions
 
-Try our app [here](slug-events-3bpt.vercel.app/)
+Try our app [here](https://slug-events-3bpt.vercel.app/)
 
 ```
 git clone https://github.com/honeydewnoseeds/SlugEvents.git
